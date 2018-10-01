@@ -1,2 +1,2 @@
-# docs
-Gereja Gamping Docs
+# Docs
+Komsos Docs
